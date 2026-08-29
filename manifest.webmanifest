@@ -1,0 +1,32 @@
+{
+  "name": "Test d’évaluation FGE — 1er RS",
+  "short_name": "Test FGE 1RS",
+  "description": "Évaluation FGE du 1er Régiment de Spahis — 100 questions, 20 secondes par question.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c110e",
+  "theme_color": "#111811",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

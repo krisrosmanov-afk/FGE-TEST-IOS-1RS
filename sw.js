@@ -1,4 +1,4 @@
-const CACHE = 'fge-test-1rs-pwa-v6-3';
+const CACHE = 'fge-test-1rs-pwa-v6-3-1';
 const APP_SHELL = [
   "./",
   "./index.html",

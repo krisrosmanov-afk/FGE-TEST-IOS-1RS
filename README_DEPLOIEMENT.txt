@@ -31,3 +31,6 @@ IMPORTANT
 - Après une première ouverture réussie, le service worker met en cache l’application pour un usage hors ligne.
 - Pour une nouvelle version, remplacer les fichiers dans le dépôt. Si nécessaire, augmenter CACHE dans sw.js
   (par exemple fge-test-1rs-pwa-v2) afin de forcer le renouvellement du cache.
+
+
+V2 : traditions/culture Spahis + identification, schema .fger v4. Remplacer les fichiers du dépôt GitHub Pages par le contenu de ce ZIP.

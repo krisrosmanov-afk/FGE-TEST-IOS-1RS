@@ -1,4 +1,4 @@
-const CACHE = 'fge-test-1rs-pwa-v1';
+const CACHE = 'fge-test-1rs-pwa-v3';
 const APP_SHELL = [
   './',
   './index.html',
@@ -6,7 +6,17 @@ const APP_SHELL = [
   './icons/icon-192.png',
   './icons/icon-512.png',
   './icons/icon-maskable-512.png',
-  './icons/apple-touch-icon.png'
+  './icons/apple-touch-icon.png',
+  './ident/VBCI.jpg',
+  './ident/LECLERC.jpg',
+  './ident/JAGUAR.jpg',
+  './ident/GRIFFON.jpg',
+  './ident/VBL.jpg',
+  './ident/CAESAR.jpg',
+  './ident/RAFALE.jpg',
+  './ident/A400M.jpg',
+  './ident/TIGRE.jpg',
+  './ident/CAIMAN_NH90.jpg'
 ];
 
 self.addEventListener('install', event => {

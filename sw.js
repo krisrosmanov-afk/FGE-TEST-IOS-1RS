@@ -1,22 +1,22 @@
-const CACHE = 'fge-test-1rs-pwa-v3';
+const CACHE = 'fge-test-1rs-pwa-v6-3';
 const APP_SHELL = [
-  './',
-  './index.html',
-  './manifest.webmanifest',
-  './icons/icon-192.png',
-  './icons/icon-512.png',
-  './icons/icon-maskable-512.png',
-  './icons/apple-touch-icon.png',
-  './ident/VBCI.jpg',
-  './ident/LECLERC.jpg',
-  './ident/JAGUAR.jpg',
-  './ident/GRIFFON.jpg',
-  './ident/VBL.jpg',
-  './ident/CAESAR.jpg',
-  './ident/RAFALE.jpg',
-  './ident/A400M.jpg',
-  './ident/TIGRE.jpg',
-  './ident/CAIMAN_NH90.jpg'
+  "./",
+  "./index.html",
+  "./manifest.webmanifest",
+  "./icons/icon-192.png",
+  "./icons/icon-512.png",
+  "./icons/icon-maskable-512.png",
+  "./icons/apple-touch-icon.png",
+  "./ident/VBL.jpg",
+  "./ident/AMX10RCR.jpg",
+  "./ident/JAGUAR.jpg",
+  "./ident/GRIFFON.jpg",
+  "./ident/LECLERC.jpg",
+  "./ident/BLACK_HORNET_3.jpg",
+  "./ident/PARROT_ANAFI.jpg",
+  "./ident/EBEE_VISION.png",
+  "./ident/DRONE_FPV.png",
+  "./ident/NH90.jpg"
 ];
 
 self.addEventListener('install', event => {
